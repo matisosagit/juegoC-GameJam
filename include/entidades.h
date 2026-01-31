@@ -15,6 +15,7 @@ struct Jugador {
     Vector2 pos{0,0}; //Pos pixels
 
     Vector2 inputDir{0,0};
+
     Vector2 facing{1,0};
 
     float speed = 140.0f;
