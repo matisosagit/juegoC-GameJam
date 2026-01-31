@@ -1,5 +1,5 @@
 #pragma once
-#include "raylib.h"
+#include 'C:/raylib'
 
 struct Pos { int x{}, y{}; };
 
